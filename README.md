@@ -7,9 +7,10 @@ Install package First:
 1. requests
 2. pandas
 
+
 Install command:
-pip install request
-pip install pandas
+1. pip install request
+2. pip install pandas
 
 
 參考網站:
